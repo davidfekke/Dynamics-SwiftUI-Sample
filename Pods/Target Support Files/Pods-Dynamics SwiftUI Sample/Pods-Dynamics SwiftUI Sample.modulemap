@@ -1,0 +1,6 @@
+framework module Pods_Dynamics_SwiftUI_Sample {
+  umbrella header "Pods-Dynamics SwiftUI Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}

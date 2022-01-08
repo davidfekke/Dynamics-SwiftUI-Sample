@@ -1,0 +1,18 @@
+PODS:
+  - BlackBerryDynamics (10.0.1.86):
+    - BlackBerryDynamics/BlackBerryDynamics (= 10.0.1.86)
+  - BlackBerryDynamics/BlackBerryDynamics (10.0.1.86)
+
+DEPENDENCIES:
+  - BlackBerryDynamics
+
+SPEC REPOS:
+  trunk:
+    - BlackBerryDynamics
+
+SPEC CHECKSUMS:
+  BlackBerryDynamics: 16b2a6733ad7147a3446dc6c6c931024978b48a7
+
+PODFILE CHECKSUM: bfd39ac95fcb37e1e5f88e5bef93feecf891bee4
+
+COCOAPODS: 1.8.0
